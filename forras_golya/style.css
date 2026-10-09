@@ -8,7 +8,7 @@ a, h2{
 }
 
 .fejlec {
-   
+   text-align: center;
 }
 hr{
     width: 70%;
@@ -19,4 +19,24 @@ h2{
 .kep1{
 
     width: 400px;
+}
+table{
+    margin: auto;
+    width: 500px;
+    border: none;
+    border-spacing: 6px;
+    padding: 6px;
+    
+}
+
+.big{
+    border-width: 240px;
+}
+th{
+    background: #FF6347;
+    color: #FFF8DC;
+}
+td{
+    border: none;
+
 }
